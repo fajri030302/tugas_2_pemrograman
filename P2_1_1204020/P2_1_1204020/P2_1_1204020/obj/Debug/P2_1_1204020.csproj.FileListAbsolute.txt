@@ -1,0 +1,6 @@
+c:\users\soerahmat\documents\visual studio 2015\Projects\P2_1_1204020\P2_1_1204020\bin\Debug\P2_1_1204020.exe.config
+c:\users\soerahmat\documents\visual studio 2015\Projects\P2_1_1204020\P2_1_1204020\bin\Debug\P2_1_1204020.exe
+c:\users\soerahmat\documents\visual studio 2015\Projects\P2_1_1204020\P2_1_1204020\bin\Debug\P2_1_1204020.pdb
+c:\users\soerahmat\documents\visual studio 2015\Projects\P2_1_1204020\P2_1_1204020\obj\Debug\P2_1_1204020.csprojResolveAssemblyReference.cache
+c:\users\soerahmat\documents\visual studio 2015\Projects\P2_1_1204020\P2_1_1204020\obj\Debug\P2_1_1204020.exe
+c:\users\soerahmat\documents\visual studio 2015\Projects\P2_1_1204020\P2_1_1204020\obj\Debug\P2_1_1204020.pdb
